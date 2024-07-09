@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Counter.jpg");
+    background-image: url("./Counter.jpg");
     background-size: fit; /* Changed from 'fit' to 'cover' for better background image fit */
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
