@@ -1,7 +1,7 @@
 body {
     background-image: url("Counter.jpg");
     background-repeat: no-repeat; 
-    background-size: fit; 
+    background-size: 100%; 
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
