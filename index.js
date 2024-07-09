@@ -13,7 +13,10 @@ function increment ()
 
 function decrement()
 {
-  countEl.textContent = count += -1
+if(count > 0){
+
+  countEl.textContent = count -= 1
+}
 }
 
 function save ()
