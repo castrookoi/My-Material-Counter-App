@@ -1,12 +1,11 @@
 body {
     background-image: url("Counter.jpg");
-    background-repeat: no-repeat; /* Ensure it does not repeat */
-    background-size: cover; /* Changed from 'fit' to 'cover' for better background image fit */
+    background-repeat: no-repeat; 
+    background-size: cover; 
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
     height: 100vh;
-    backgr
 }
 
 .container {
